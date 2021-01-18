@@ -75,7 +75,8 @@ h1 {
 
 .split.left {
     left: 0;
-    background-image: url("images/playstation.jpg") no-repeat;
+    background: url("images/playstation.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
@@ -97,7 +98,8 @@ h1 {
 
 .split.right {
     right: 0;
-    background-image: url("images/xbox.jpg") no-repeat;
+    background: url("images/xbox.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
